@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Ancizar+Sans:ital,wght@0,100..1000;1,100..1000&family=Cairo:wght@200..1000&family=El+Messiri:wght@400..700&family=Playpen+Sans+Arabic:wght@100..800&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
+
+body {
+  font-family: "El Messiri", sans-serif;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  filter: invert(1) grayscale(100);
+}
