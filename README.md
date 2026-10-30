@@ -60,4 +60,4 @@ profile-bootstrap/
 
 - **الاسم:** [Mohammed Faez]
 - **LinkedIn:** [رابط حسابك على لينكد إن](https://www.linkedin.com/in/mohammed-faez-alameri)
-- **GitHub:** [@yourusername](https://github.com/mohammed-MFSA99)
+- **GitHub:** [@mohammed-MFSA99](https://github.com/mohammed-MFSA99)
