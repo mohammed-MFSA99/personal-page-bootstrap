@@ -19,7 +19,7 @@
 
 ## 🚀 المعاينة الحية (Live Demo)
 
-- 🔗 **رابط العرض المباشر:** [اضغط هنا لتجربة الموقع مباشرة](https://your-live-demo-link.com) *(قم بتحديث الرابط بعد رفعه على GitHub Pages أو Vercel)*
+- 🔗 **رابط العرض المباشر:** [اضغط هنا لتجربة الموقع مباشرة](https://mohammed-mfsa99.github.io/personal-page-bootstrap/) 
 
 ---
 
