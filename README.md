@@ -56,37 +56,8 @@ profile-bootstrap/
 ├── index.html               # الصفحة الرئيسية
 └── README.md                # دليل وتوثيق المشروع
 ```
-
----
-
-## 💻 طريقة التشغيل محلياً (Getting Started)
-
-لتشغيل المشروع محلياً على جهازك، اتبع الخطوات البسيطة التالية:
-
-1. **استنساخ المستودع (Clone the repository):**
-   ```bash
-   git clone https://github.com/your-username/profile-bootstrap.git
-   ```
-
-2. **الدخول إلى مجلد المشروع:**
-   ```bash
-   cd profile-bootstrap
-   ```
-
-3. **فتح الموقع:**
-   - يمكنك فتح ملف `index.html` مباشرة في أي متصفح ويب.
-   - أو تشغيله عبر إضافة **Live Server** في VS Code للتحديث التلقائي.
-
----
-
 ## 🧑‍💻 المطور (Author)
 
-- **الاسم:** [اسمك هنا]
-- **LinkedIn:** [رابط حسابك على لينكد إن](https://linkedin.com/in/yourprofile)
+- **الاسم:** [Mohammed Faez]
+- **LinkedIn:** [رابط حسابك على لينكد إن](https://www.linkedin.com/in/mohammed-faez-alameri)
 - **GitHub:** [@yourusername](https://github.com/yourusername)
-
----
-
-## 📄 الترخيص (License)
-
-هذا المشروع متاح تحت رخصة [MIT](LICENSE) - يمكنك استخدامه وتطويره بحرية.
