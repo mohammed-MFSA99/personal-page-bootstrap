@@ -68,7 +68,7 @@ Through this project, I practiced:
 ---
 
 ### 👨‍💻 Author
-**Mohammed Faez Saeed**  
+**Mohammed Faez**  
 *Frontend Web Developer*
 - **GitHub:** [@mohammed-MFSA99](https://github.com/mohammed-MFSA99)
 
