@@ -20,8 +20,6 @@ The primary goal of this project is to practice building a complete, responsive 
 ### 📸 Screenshots
 * **Home Page**
   ![Home Screenshot](screenshots/desktop.png)
-* **Gallery Page**
-  ![Gallery Screenshot](screenshots/gallery.png)
 
 
 ### ✨ Features
@@ -31,6 +29,8 @@ The primary goal of this project is to practice building a complete, responsive 
   - **Home Page (`index.html`):** Includes a responsive dark Navbar, a Hero/Showcase section with centered overlay text, a Newsletter subscription bar, a 3-column Services section (Web Development, Mobile App Development, Technical Consulting), and a Footer.
   - **Gallery Page (`gallery.html`):** Features an interactive Bootstrap Carousel/Slider to preview previous projects with titles and descriptions.
 - **Bootstrap Icons Integration:** Uses official Bootstrap Icons for clean visual elements across the navbar and service cards.
+
+---
 
 ### 🛠️ Technologies
 - **HTML5**
@@ -62,6 +62,8 @@ The interface is designed to adapt smoothly across:
 - Tablet
 - Mobile devices
 
+---
+
 ### 📚 What I Learned
 Through this project, I practiced:
 - Mastering **Bootstrap 5 Utility Classes** (`position`, `translate-middle`, `d-flex`, `g-4`, `shadow-sm`, `object-fit-cover`, etc.) to style elements directly in HTML and minimize custom CSS.
@@ -82,7 +84,7 @@ Through this project, I practiced:
 
 ---
 
-<!-- <a name="arabic"></a>
+<a name="arabic"></a>
 
 <div dir="rtl">
 
@@ -159,4 +161,4 @@ personal-page-bootstrap/
 ### 📄 الرخصة
 هذا المشروع متاح تحت رخصة MIT.
 
-</div> -->
+</div>
