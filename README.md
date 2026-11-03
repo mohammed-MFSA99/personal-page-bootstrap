@@ -1,14 +1,8 @@
 # Personal Page (Bootstrap)
 
-
-
 ---
 
 <a name="english"></a>
-
-## 🇬🇧 English
-
-A clean, two-page responsive personal website built using **Bootstrap 5 RTL** and **Utility Classes** to showcase services and a portfolio gallery with minimal custom CSS.
 
 ### 📌 About the Project
 **Personal Page (Bootstrap)** is a lightweight frontend training project consisting of two pages: a **Home Page** (`index.html`) and a **Portfolio Gallery Page** (`gallery.html`).
@@ -84,7 +78,7 @@ Through this project, I practiced:
 
 ---
 
-<a name="arabic"></a>
+<!-- <a name="arabic"></a>
 
 <div dir="rtl">
 
@@ -161,4 +155,4 @@ personal-page-bootstrap/
 ### 📄 الرخصة
 هذا المشروع متاح تحت رخصة MIT.
 
-</div>
+</div> -->
