@@ -1,8 +1,14 @@
-# Personal Page (Bootstrap 5) — صفحة شخصية ومعرض أعمال
+# Personal Page (Bootstrap)
+
+
 
 ---
 
 <a name="english"></a>
+
+## 🇬🇧 English
+
+A clean, two-page responsive personal website built using **Bootstrap 5 RTL** and **Utility Classes** to showcase services and a portfolio gallery with minimal custom CSS.
 
 ### 📌 About the Project
 **Personal Page (Bootstrap)** is a lightweight frontend training project consisting of two pages: a **Home Page** (`index.html`) and a **Portfolio Gallery Page** (`gallery.html`).
@@ -13,11 +19,10 @@ The primary goal of this project is to practice building a complete, responsive 
 
 ### 📸 Screenshots
 * **Home Page**
-  [Home Screenshot](screenshots/desktop.png)
+  ![Home Screenshot](screenshots/desktop.png)
 * **Gallery Page**
-  [Gallery Screenshot](screenshots/gallery.png)
+  ![Gallery Screenshot](screenshots/gallery.png)
 
----
 
 ### ✨ Features
 - **Utility-First Styling with Bootstrap:** Uses Bootstrap 5 utility classes extensively for layout, alignment, and styling, drastically reducing the need for custom CSS.
@@ -26,7 +31,6 @@ The primary goal of this project is to practice building a complete, responsive 
   - **Home Page (`index.html`):** Includes a responsive dark Navbar, a Hero/Showcase section with centered overlay text, a Newsletter subscription bar, a 3-column Services section (Web Development, Mobile App Development, Technical Consulting), and a Footer.
   - **Gallery Page (`gallery.html`):** Features an interactive Bootstrap Carousel/Slider to preview previous projects with titles and descriptions.
 - **Bootstrap Icons Integration:** Uses official Bootstrap Icons for clean visual elements across the navbar and service cards.
-
 
 ### 🛠️ Technologies
 - **HTML5**
@@ -65,13 +69,18 @@ Through this project, I practiced:
 - Implementing interactive Bootstrap components like the collapsible **Navbar** and **Carousel** using Bootstrap's bundled JavaScript.
 - Using **Bootstrap Icons** alongside text and cards.
 
+---
 
 ### 👨‍💻 Author
 **Mohammed Faez Saeed**  
 *Frontend Web Developer*
 - **GitHub:** [@mohammed-MFSA99](https://github.com/mohammed-MFSA99)
 
+- **LinkedIn**: [Mohammed Faez](https://www.linkedin.com/in/mohammed-faez-alameri)
 
+
+
+---
 
 <!-- <a name="arabic"></a>
 
@@ -151,4 +160,3 @@ personal-page-bootstrap/
 هذا المشروع متاح تحت رخصة MIT.
 
 </div> -->
->>>>>>> a1c3796 (docs: update README in profile-bootstrap)
